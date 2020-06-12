@@ -1,4 +1,4 @@
-package com.example.demo.controller;
+package com.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 
