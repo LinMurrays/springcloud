@@ -1,4 +1,4 @@
-package demo;
+package com.boc.database;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
