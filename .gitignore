@@ -13,14 +13,14 @@ ad.
 !/ad
 /ad
 *.jar
-/src/main/java/com/boc/database/controller/test2.java
-/src/main/java/com/boc/database/controller/asda.java
-!/src/main/java/com/boc/database/controller/test2.java
-/src/main/java/com/boc/database/controller/ko.java
+/src/main/java/com/controller/test2.java
+/src/main/java/com/controller/asda.java
+!/src/main/java/com/controller/test2.java
+/src/main/java/com/controller/ko.java
 !/.gitignore
 ### Example user template template
 ### Example user template
 
-/src/main/java/com/boc/database/springdemo2.test/
-/src/main/java/com/boc/database/controller/asda.java
+/src/main/java/com/springdemo2.test/
+/src/main/java/com/controller/asda.java
 
